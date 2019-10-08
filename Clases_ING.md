@@ -1,4 +1,4 @@
-# Necesitaría saber la class
+﻿# Classes
 
 * Cada una de las coropletas
 ```
